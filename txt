@@ -1,0 +1,21 @@
+
+
+    Site Search: site: - This dork allows you to search for specific keywords within a particular website or domain. For example, site:example.com password will search for the term "password" within the site example.com.
+
+    File Type: filetype: - This dork helps you find specific file types. For example, filetype:pdf report will search for PDF files related to the term "report".
+
+    Intitle: intitle: - This dork searches for websites with specific keywords in their title. For example, intitle:"index of" confidential will search for web pages with "index of" in the title and containing the word "confidential".
+
+    Link: link: - This dork displays web pages that link to a specific URL. For example, link:example.com will show web pages that link to example.com.
+
+    Cache: cache: - This dork displays the cached version of a web page. For example, cache:example.com will show the cached version of example.com.
+
+    Info: info: - This dork provides information about a specific website. For example, info:example.com will display information about example.com, including cached pages, similar sites, and pages that link to it.
+
+    Inurl: inurl: - This dork searches for specific keywords within the URL of a web page. For example, inurl:admin will search for web pages with "admin" in the URL.
+
+    Intext: intext: - This dork searches for specific keywords within the body of a web page. For example, intext:password will search for web pages containing the word "password".
+
+    Related: related: - This dork displays websites that are similar to a specific domain. For example, related:example.com will show related websites to example.com.
+
+    Allinurl: allinurl: - This dork searches for web pages that have all the specified keywords in the URL. For example, allinurl:admin login will search for web pages with both "admin" and "login" in the URL.
